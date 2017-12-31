@@ -4,4 +4,4 @@ Built an iPhone app that records a conversation between you and a friend, and th
 ## How to use
 This app can be run on a device running iOS 10.0 or higher. Record any message, then select a button to listen to the recording in different effects.
 
-![Alt text](https://raw.github.com/JayGabriel/PitchPerfect/master/1.png | width=48)
+![Alt text](https://raw.github.com/JayGabriel/PitchPerfect/master/1.png)
